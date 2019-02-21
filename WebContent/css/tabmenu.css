@@ -1,0 +1,10 @@
+<style type="text/css">
+	#SStab {margin:18px 15px 0 15px;font-family:µ¸¿ò;font-size:12px;letter-spacing:-1px;}
+	#SStab ul {padding-left:10px;height:33px; background:url('/data/201009/IJ12841820414509/search_tab_line.gif') 0 bottom repeat-x; *zoom:1;}
+	#SStab ul:after {content:""; display:block; float:none; clear:both;}
+	#SStab ul li {display:inline; float:left; height:33px; margin:0 0 0 1px; background:url('/data/201009/IJ12841820414509/search_tab_r.gif') right top no-repeat;}
+	#SStab ul li.on {background:url('/data/201009/IJ12841820414509/search_tabon_r.gif') right top no-repeat; font-weight:bold;color:#236fa5;}
+	#SStab ul li a {display:block; padding:14px 19px 5px 19px; background:url('/data/201009/IJ12841820414509/search_tab_l.gif') left top no-repeat;}
+	#SStab ul li a:hover {color:#0161d9;}
+	#SStab ul li.on a {background:url('/data/201009/IJ12841820414509/search_tabon_l.gif') left top no-repeat;color:#1b87ff;}
+</style>
